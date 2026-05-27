@@ -1,0 +1,14 @@
+.DS_Store
+*.dSYM/
+*.zip
+.vscode/
+.idea/
+# Compiled macOS executables (no extension)
+**/main
+**/main[0-9]
+**/main[0-9][0-9]
+**/main_[0-9]
+**/main_[0-9][0-9]
+**/challenge[0-9]
+**/program[0-9]
+**/hello

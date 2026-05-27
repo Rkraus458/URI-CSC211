@@ -1,0 +1,116 @@
+
+Question 1:
+-----------
+A random number
+
+Question 2:
+-----------
+No because when a variable isn't defined I see it as nothing or 0 but the computer
+Holds a random value
+
+Question 3:
+-----------
+3
+
+Question 4:
+-----------
+No I wasn't surprised from python tutor it seem to execute how I did it.
+
+Question 5:
+-----------
+integer
+
+Question 6:
+-----------
+None
+
+Question 7:
+-----------
+The function becomes disregarded once it runs
+
+Question 8:
+-----------
+Yes
+
+Question 9:
+-----------
+I believe that this error is caused because "run" may be a keyword in C++ so you cannot use it as a function name
+
+Question 10:
+-----------
+5 11 14
+
+Question 11:
+-----------
+int sumB(int a, int b, int c) {
+	if (a % 2 == 0) {
+		for (int i = b; i < c; i++) {
+			sum = sum + i;
+	return sum;
+			}
+	}
+	else:
+		for (int i = b; i < c; i++) {
+			product = product * i;
+		return product;
+			}
+
+	
+}
+Question 12:
+-----------
+float binary(float dec) {
+	for (int i = 0; int i < dec; I--){
+	if (dec % 2 == 0) return 0;
+	}
+	else:
+		return 1;
+
+Question 13:
+-----------
+int numDigits(int n) {
+    int sum = 0;
+    while (n > 0) {
+        sum ++;
+        n = n % 10;
+        n / 10;
+    }
+    return sum;
+}
+
+Question 14:
+-----------
+Int reverse(int n) {
+	while ( n> 0){
+	int r = n % 10;
+	n = n - r;
+	int new = new + r;
+	}
+
+return new;
+
+Question 15:
+-----------
+int py(int n) {
+
+    int rows = 4;
+
+    for (int i = 1; i <= rows; i++) {
+       
+       for (int x = 1; x <= rows - i; x++) {
+            std::cout << " ";
+        }
+       
+        for (int j = i; j <= 2 * i - 1; j++){
+            std::cout << j;
+        }
+
+        for (int h = 2 * i - 2; h >= i; h--){
+            std::cout << h;
+        }
+
+        std::cout << std::endl;
+    }
+
+return 0;
+}

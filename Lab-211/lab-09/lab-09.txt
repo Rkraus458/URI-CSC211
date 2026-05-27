@@ -1,0 +1,15 @@
+Question 1:
+-----------
+It calls fib more times
+
+Question 2:
+-----------
+Its finding the value of the main call
+
+Question 3:
+-----------
+Its taking A as input and if A is less then 3 it returns A and if not
+it adds a - 3 a - 2 and a - 1. 
+
+Question 3:
+-----------
