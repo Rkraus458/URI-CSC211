@@ -1,4 +1,4 @@
-# CSC 211 — Computer Programming
+# CSC 211 — Computer Programming (OOP)
 **University of Rhode Island**
 
 > Problem specification, solution design, and algorithm development. Topics include data types,
